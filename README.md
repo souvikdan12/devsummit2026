@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 AI Resume Analyzer
 
 An AI-powered Resume Analysis platform that leverages **Google Gemini AI** to provide intelligent career insights, skill gap detection, and personalized roadmaps.
@@ -152,3 +153,6 @@ This project is open source and available under the [MIT License](LICENSE).
 <p align="center">
   Built with ❤️ using React, Express & Google Gemini AI
 </p>
+=======
+# devsummit2026
+>>>>>>> cda02edb5c437de0cb17da68ae09a894e526b7d2
