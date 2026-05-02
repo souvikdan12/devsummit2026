@@ -33,3 +33,6 @@ A full-stack web application that bridges the gap between candidate resumes and 
 - Advanced text analysis for resume parsing
 
 ---
+# Build Commands
+- npm install in both folders(frontend & backend)
+- run "npm run dev" first in backend and then in frontend 
